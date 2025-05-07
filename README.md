@@ -170,8 +170,8 @@ Hackathon_baiust_cse_fest/
 ## 👥 Team Members
 
 * **Moneem Abdullah** - [GitHub](https://github.com/Moneemabdullah)
-* **\[Team Member 2]** - [GitHub](https://github.com/username)
-* **\[Team Member 3]** - [GitHub](https://github.com/username)
+* **\[Team Member 2]** - [GitHub](https://github.com/sirat2001)
+* **\[Team Member 3]** - [GitHub](https://github.com/rifatbroh)
 
 ## 🏆 Achievements
 
