@@ -165,7 +165,7 @@ Hackathon_baiust_cse_fest/
 ## 🚀 Deployment
 
 * **Frontend:** Deployed on Netlify - [hublu-dublus.netlify.app](https://hublu-dublus.netlify.app/)
-* **Backend:** Deployed on Render - [render.com](https://render.com)
+* **Backend:** Deployed on Render - [https://render.com](https://hablu-dablu.onrender.com)
 
 ## 👥 Team Members
 
